@@ -34,6 +34,7 @@
 ![EJS](https://img.shields.io/badge/ejs-1cfcf1?style=for-the-badge&logo=ejs&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MERN](https://img.shields.io/badge/-MERN-1cfcf1?style=for-the-badge&logo=MERN&logoColor=white)
+![REACT](https://img.shields.io/badge/-REACT-ec0909?style=for-the-badge&logo=REACT&logoColor=white)
 
 #  GitHub Stats:
 
