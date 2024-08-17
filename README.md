@@ -6,21 +6,18 @@
 
 ### I'm a full stack  web developer from Delhi, India
 
-
-
-
-
-
-<img align="right" src="https://dialtm.in/assets/images/solution/webcasting/wc1.png" width="330px" height="190px" alt="image">
-
-# 💻 Skills : 
 ![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN-3B3B3B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=ec0909)
 ![MEAN Stack](https://img.shields.io/badge/MEAN-3B3B3B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 
+
+
+
+# 💻 Skills : 
 ![html5](https://img.shields.io/badge/HTML-ec0909?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
