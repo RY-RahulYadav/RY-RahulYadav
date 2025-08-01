@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="pointer-events: none;"> I'm Rahul Yadav</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=1100&lines=AI/ML+Engineer;Full+Stack+Developer;Generative+AI+Engineer;NLP+Enthusiast;)](https://github.com/RY-RahulYadav/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=1100&lines=AI/ML+Engineer;Full+Stack+Developer;Generative+AI+Engineer;MERN+Developer;MEAN+Developer;NLP+Enthusiast;)](https://github.com/RY-RahulYadav/)
 
-I'm Rahul Yadav, a dedicated **AI Engineer** and **Full Stack Developer** based in Delhi, India. I specialize in **MERN/MEAN development**, **Generative AI Integration**, **LLM-powered solutions**, and **scalable product development**. With a Bachelor of Technology in Artificial Intelligence and Machine Learning from Guru Gobind Singh Indraprastha University (CGPA: 8.7/10), I am passionate about crafting intelligent systems and developer-friendly platforms that solve real-world challenges. My expertise spans modern web development frameworks, machine learning tools, and API integrations, enabling me to build robust, user-centric solutions.
+I'm Rahul Yadav, a dedicated **AI Engineer** and **Full Stack Developer** based in Delhi, India. I specialize in **MERN/MEAN development**, **Generative AI Integration**, **LLM-powered solutions**, and **scalable product development**. With a Bachelor of Technology in Artificial Intelligence and Machine Learning from Guru Gobind Singh Indraprastha University , I am passionate about crafting intelligent systems and developer-friendly platforms that solve real-world challenges. My expertise spans modern web development frameworks, machine learning tools, and API integrations, enabling me to build robust, user-centric solutions.
 
 ## Key Highlights
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning**, GGSIPU (CGPA: 8.7/10)
