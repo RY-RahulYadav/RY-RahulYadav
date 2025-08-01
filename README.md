@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Rahul Yadav</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="pointer-events: none;"> I'm Rahul Yadav</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=1100&lines=AI/ML+Engineer;Full+Stack+Developer;Generative+AI+Integrator;NLP+Enthusiast;)](https://github.com/RY-RahulYadav/)
 
